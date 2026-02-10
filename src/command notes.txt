@@ -1,0 +1,3 @@
+javac -d ../build -cp ../../core.jar Main.java roundrobintournament/*.java
+
+java -cp "../build;../../core.jar" Main
