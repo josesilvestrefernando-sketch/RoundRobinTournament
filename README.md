@@ -100,13 +100,6 @@ Algorithm and data-structure practice
 
 ---
 
-🚧 Project Status
-
-⚠️ Work in Progress
-
-This project is actively being developed. More features, optimizations, and test cases will be added.
-
-
 ---
 
 🧑‍💻 Technologies Used
@@ -120,20 +113,6 @@ Collections Framework
 
 
 ---
-
-📈 Future Improvements
-
-Add unit testing
-
-Improve ranking tie-breaker rules
-
-Support persistent storage
-
-Add REST API layer (Spring Boot)
-
-Visualization of tournament brackets
-
-
 
 ---
 
